@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a passionate developer focused on creating impactful web and mobile applications. Here you'll find my projects, skills, and what I'm currently working on.
 
 # My portfolio
-<a href=https://sameerkindia.netlify.app/">Click here</a>
+<a href="https://sameerkindia.netlify.app/" target="_blank">Click here</a>
 
 ---
 
