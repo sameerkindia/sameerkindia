@@ -1,4 +1,4 @@
-## Hi there I am sameer kha 👋
+## Hi there I am sameer khan 👋
 
 <!--
 **sameerkindia/sameerkindia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
